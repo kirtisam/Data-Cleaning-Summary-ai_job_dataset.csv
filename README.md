@@ -31,3 +31,5 @@ Clean dataset is now ready for:
 Exploratory Data Analysis (EDA)
 Power BI dashboard creation
 Insights generation on AI job trends, salary, and hiring patterns
+<img width="743" alt="image" src="https://github.com/user-attachments/assets/38a6a3e8-5b7c-40d8-9e4d-5d1166dc554a" />
+
